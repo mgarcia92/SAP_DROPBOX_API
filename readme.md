@@ -1,3 +1,3 @@
 # Sap Dropbox Generator
-Convertidor de archivos de reportes ena y envio de la red interna a la api de dropbox dinamicamente.
+Convertidor de archivos de Hojas Excel y envio hacia a la api de dropbox dinamicamente.
 
