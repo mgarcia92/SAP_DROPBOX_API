@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReportGeneratorSap", "ReportGeneratorSap\ReportGeneratorSap.csproj", "{DB8D8F5E-6509-43F6-B0F8-86E5C2C58C31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB8D8F5E-6509-43F6-B0F8-86E5C2C58C31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB8D8F5E-6509-43F6-B0F8-86E5C2C58C31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB8D8F5E-6509-43F6-B0F8-86E5C2C58C31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB8D8F5E-6509-43F6-B0F8-86E5C2C58C31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27C7D514-2314-439A-9C20-31A13325E3A6}
+	EndGlobalSection
+EndGlobal
